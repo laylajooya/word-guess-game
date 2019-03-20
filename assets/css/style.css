@@ -3,11 +3,13 @@ body {
     color: white;
     margin: 0 auto;
     font-family: 'Courier New', Courier, monospace;
-
+    padding: 20px;
 }
+
 header {
     text-align: center;
     padding: 20px;
+
 
 }
 
